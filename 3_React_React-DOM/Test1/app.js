@@ -35,7 +35,7 @@ document.body.appendChild(h1DOM);
 */
 //////////////////////////////
 
-const classDOM = document.createElement('div');
+/* const classDOM = document.createElement('div');
 
 classDOM.className ='class2';
 
@@ -51,4 +51,15 @@ h1.innerText = 'Lorem Ipsum'
 console.log(h1);
 document.body.appendChild(h1);
 
+ */
 
+
+const h1Re = React.createElement(
+    'h1', {
+        className: 'heading'
+    },
+    ' Hello Guys'
+)
+
+const root = document.getElementById('root')
+ReactDOM.render(h1Re,root);
