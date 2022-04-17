@@ -1,1 +1,10 @@
-// Link : https://babeljs.io/repl#?browsers=&build=&builtIns=false&corejs=3.6&spec=false&loose=false&code_lz=DwCwjAfAEg9ghgOwOYAIBqiUBUCungD04QA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=es2015%2Creact&prettier=false&targets=&version=7.15.6&externalPlugins=&assumptions=%7B%7D
+// Link : https://bit.ly/2VOIMN7
+
+
+# Tại sao phải dùng JSX
+
+- JSx không phải là HTML.
+- Cần có Javascript , Bael để dùng JSX.
+- Khi làm trên JSX dùng {}.
+
+-
